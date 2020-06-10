@@ -53,7 +53,7 @@ let triviaQuestions = [
     //7
     {question: "Who is the heir of Slytherin?",
             answers: ["Lucius Malfoy", "Blaise Zabini", "Severus Snape" , "Tom Riddle"],
-            theAnswer: 1,
+            theAnswer: 3,
             correctAnswer: "<img src='assets/images/riddle7.gif' />",
             incorrectAnswer:  "<img src='assets/images/nope3.gif' />"
     },
